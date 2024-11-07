@@ -26,7 +26,7 @@ A simple timer application written in assembly language that simulates a digital
    ```bash
    TimeMaster.com
    ```
-###How It Works
+## How It Works
 - The program uses basic assembly operations to increment seconds, minutes, and hours, displaying the time dynamically.
 - Custom routines handle the timer commands, input processing, and time conversion.
 
