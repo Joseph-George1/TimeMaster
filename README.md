@@ -30,7 +30,7 @@ A simple timer application written in assembly language that simulates a digital
 - The program uses basic assembly operations to increment seconds, minutes, and hours, displaying the time dynamically.
 - Custom routines handle the timer commands, input processing, and time conversion.
 
-###Contributing
+## Contributing
 If you'd like to contribute, feel free to fork the repository and submit a pull request with your improvements.
 
 ## Author
